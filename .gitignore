@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# C test build
+pc_test/unonet_test
+pc_test/unonet_test.exe
+
+# LaTeX build files
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/*.synctex.gz
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
