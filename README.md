@@ -1,6 +1,6 @@
 # UnoNETv1: a tiny language model on an Arduino UNO
 
-UnoNET is a small **language model that runs on an Arduino UNO**. You type the start
+UnoNET is a tiny **language model that runs on an Arduino UNO**. You type the start
 of an animal name, and the UNO finishes it.
 
 ```
